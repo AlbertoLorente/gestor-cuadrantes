@@ -1,0 +1,16 @@
+{
+  "name": "gestor-cuadrantes",
+  "version": "1.0.0",
+  "description": "Gestor de cuadrantes, incidencias y usuarios",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql2": "^3.2.0",
+    "bcrypt": "^5.1.0",
+    "jsonwebtoken": "^9.0.0"
+  }
+}

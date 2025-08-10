@@ -1,0 +1,20 @@
+# Dependencias
+**/node_modules/
+
+# Entorno / credenciales
+.env
+.env.*
+
+# Builds / caches / logs
+dist/
+build/
+coverage/
+.tmp/
+.cache/
+*.log
+
+# SO / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
