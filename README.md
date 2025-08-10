@@ -27,10 +27,15 @@ Permite gestionar personal, horarios y permisos de forma segura, con autenticaci
 ## 📂 Estructura del proyecto
 
 gestor-cuadrantes/
+
 ├── backend/ # Código del servidor (Node.js + Express)
+
 ├── frontend/ # Archivos HTML, CSS, JS (Bootstrap)
+
 ├── database/ # Scripts SQL (estructura y datos de prueba)
+
 ├── .gitignore
+
 ├── README.md
 
 ---
